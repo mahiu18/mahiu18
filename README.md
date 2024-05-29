@@ -8,6 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/MaheshUppu03" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons /Social/twitter.svg" alt="Maheshuppu03" height= "30" width="40" /></a>
+<a href="https://X.com/MaheshUppu03"src="https://img.freepik.com/free-vector/twitter-new-logo-x-icon-design_1017-45424.jpg?w=1060&t=st=1716978562~exp=1716979162~hmac=1cc1d679e9085900858f8669e4f313ccf7de77350f2872220d8b1ee0458c7e7d" target="blank"><img align="center" src= alt="Maheshuppu03" height= "30" width="40" /></a>
 
 
