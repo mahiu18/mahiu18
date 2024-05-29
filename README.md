@@ -1,16 +1,12 @@
-<h1 align="center"> -👋 Hi, I’m @mahiu18</h1>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">👋 Hi, I’m @mahiu18</h1>
+<h3 align="center">Eager to learn new Technologies</h3>
 
-<!---
-mahiu18/mahiu18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<html>
-<body>
-<label>**UI Technologies : **</label><br>
-<img src="https://en.m.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg"/>
+- 🌱 I’m currently learning **Full stack web Development**
+
+- 💞️ I’m looking to collaborate on **Full stack Developers**
+- Reach me **naidumahesh02@gmail.com**
+
+<h3 align="left"> Connect with me on :</h3>
+<p>
+<
+
